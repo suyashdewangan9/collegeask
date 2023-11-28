@@ -79,23 +79,7 @@ function Login() {
               />
               <span>Continue With Facebook</span>
             </div> */}
-            <div className="login__authDesc">
-              <p>
-                <span style={{ color: "blue", cursor: "pointer" }}>
-                  Sign Up With Email
-                </span>
-                . By continuing you indicate that you have read and agree to
-                Quora's
-                <span style={{ color: "blue", cursor: "pointer" }}>
-                  Terms of Service{" "}
-                </span>
-                and{" "}
-                <span style={{ color: "blue", cursor: "pointer" }}>
-                  Privacy Policy
-                </span>
-                .
-              </p>
-            </div>
+            
           </div>
           <div className="login__emailPass">
             <div className="login__label">
@@ -139,7 +123,7 @@ function Login() {
           <p>Privacy</p>
           <p>Terms</p>
           <p>Contact</p>
-          <p>&copy; Quora Fake Inc. 2021</p>
+          <p>&copy; CollegeAsk Fake Inc. 2023</p>
         </div>
       </div>
     </div>
